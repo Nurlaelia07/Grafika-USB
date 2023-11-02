@@ -1,0 +1,6 @@
+﻿  main.cpp
+E:\Semester V\Kpt2\Tugas1Bendera\Indonesia\Indonesia\main.cpp(13,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Semester V\Kpt2\Tugas1Bendera\Indonesia\Indonesia\main.cpp(14,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Semester V\Kpt2\Tugas1Bendera\Indonesia\Indonesia\main.cpp(19,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Semester V\Kpt2\Tugas1Bendera\Indonesia\Indonesia\main.cpp(20,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Indonesia.vcxproj -> E:\Semester V\Kpt2\Tugas1Bendera\Indonesia\x64\Debug\Indonesia.exe
